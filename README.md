@@ -1,3 +1,3 @@
 # HighDimOptAdaptiveSubspaces
  
-Check out the notebook tutorial for basic usage.
+Basic usage described in notebook.
